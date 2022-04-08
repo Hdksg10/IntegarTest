@@ -15,7 +15,7 @@
 
 ### 准备措施
 
-要求编译器支持C++17标准，并在编译选项中添加 -std=c++17选项（不会添加？：[点我](.\complietutorial.md)）
+要求编译器支持C++17标准，并在编译选项中添加 -std=c++17选项（不会添加？：[点我](https://github.com/Hdksg10/IntegarTest/blob/main/complietutorial.md)）
 
 ### 添加头文件
 
