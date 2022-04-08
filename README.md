@@ -19,11 +19,11 @@
 
 ### 添加头文件
 
-将IntegerTest.hpp与代码文件放置在同一文件夹，在代码文件中添加
+将./include/IntegerTest.hpp与代码文件放置在同一文件夹，在代码文件中添加
 
 `#include "IntegerTest.hpp"`
 
-### 正式使用
+### 正式使用(示例代码)
 
 ```c++
 #include "IntegarTest.hpp"
