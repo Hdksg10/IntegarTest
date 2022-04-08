@@ -42,7 +42,7 @@ void testFunction(int r, double s)//测试函数
 int main()
 {
     IntegarTest It;
-    cout<<It.functest(testFunction, 12, 2.67);//functest函数用于测试任意函数运行时间
+    cout<<It.functest(testFunction, 12, 2.67);//functest函数用于测试任意函数运行时间，返回单位为毫秒的运行时间
 }
 ```
 
