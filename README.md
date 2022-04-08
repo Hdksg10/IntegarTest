@@ -15,7 +15,7 @@
 
 ### 准备措施
 
-要求编译器支持C++17标准，并在编译选项中添加 -std=c++17选项（不会添加？：[点我](https://github.com/Hdksg10/IntegarTest/blob/main/complietutorial.md)）
+要求编译器支持**C++17**标准，并在编译选项中添加 -std=c++17选项（不会添加？：[点我](https://github.com/Hdksg10/IntegarTest/blob/main/complietutorial.md)）
 
 ### 添加头文件
 
@@ -127,4 +127,8 @@ Friend Function
 ```c++
 friend std::ostream& operator<<(std::ostream& os , const IntegarTest &It)//重载的<<运算符，将IntegerTest中_timeCost中的元素全部输出到os这个标准输出流中
 ```
+## 其他
 
+大一学生C++作品，欢迎任何建议与批判
+
+欢迎Issues/Pull Requests
