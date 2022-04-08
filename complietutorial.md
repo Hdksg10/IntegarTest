@@ -4,7 +4,7 @@
 
 在上分搜索栏中搜索 Executor Map
 
-![image-20220408133423503](C:\Users\Rhywu\IntergarTest\IntegarTest\image\image-20220408133423503.png)
+![image-20220408133423503](https://github.com/Hdksg10/IntegarTest/blob/main/image/image-20220408133423503.png)
 
 点击Edit in settings.json
 
@@ -12,4 +12,4 @@
 
 在"cpp"中添加 -std=c++17(如下图)
 
-![image-20220408133626121](C:\Users\Rhywu\IntergarTest\IntegarTest\image\image-20220408133626121.png)
+![image-20220408133626121](https://github.com/Hdksg10/IntegarTest/blob/main/image/image-20220408133626121.png)
