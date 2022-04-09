@@ -129,6 +129,6 @@ friend std::ostream& operator<<(std::ostream& os , const IntegarTest &It)//重�
 ```
 ## 其他
 
-大一学生C++作品，欢迎任何建议与批判
+大一学生C++作品，欢迎任何建议与批评
 
 欢迎Issues/Pull Requests
